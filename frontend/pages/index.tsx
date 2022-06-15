@@ -170,7 +170,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div className=" max-w-xl flex items-center">
+        <div className="mx-auto max-w-xl flex items-center">
           <form onSubmit={handleFileSubmit} className="mb-4 rounded bg-[#1B1B1A] px-8 pt-6 pb-8 opacity-90 shadow-md">
             <div className="m-4 flex justify-center">
               <h3 className="font-bold uppercase text-white">
