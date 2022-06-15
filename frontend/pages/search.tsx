@@ -238,127 +238,127 @@ const SearchPage = () => {
                       <tr key={i} className="dark:border-gray-700 dark:bg-gray-800">
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.stt}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.school}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.address}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.id}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.classroom}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.name}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.day}/{item.month}/{item.year}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.gender}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.place_of_birth}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.ethnic}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.address}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.phone}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.point_1}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.point_2}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.point_3}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.point_4}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.point_5}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.total_point_1}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.extra_point}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.total_point_2}
                         </th>
                         <th
                           scope="row"
-                          className="whitespace-nowrap px-6 py-4 font-medium"
+                          className="whitespace-nowrap px-6 py-4 font-medium font-sans"
                         >
                           {item.note}
                         </th>
